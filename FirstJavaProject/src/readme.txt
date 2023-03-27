@@ -12,7 +12,7 @@ ________________________________________________________________________
 A closer look at the Helloworld.java file
 ________________________________________________________________________
 
- multiline comment-this type of comment must begin with /* and end with */. 
+ multi-line comment-this type of comment must begin with /* and end with */. 
 
 The next line of code in the program is shown here:
 
