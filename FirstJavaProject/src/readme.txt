@@ -18,7 +18,7 @@ The next line of code in the program is shown here:
 
 public class HelloWorld {
 
-This line uses the keyword class to declare that a new class is being defined. Example
+This line uses the keyword class to declare that a new class is being defined. HelloWorld
 is an identifier that is the name of the class. The entire class definition, including all of its 
 members, will be between the opening curly brace ({) and the closing curly brace (}).
 
